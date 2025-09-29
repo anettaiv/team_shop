@@ -1,1 +1,1 @@
-xfg
+print("Hello world")
